@@ -1,0 +1,5 @@
+Enlace a dashboard por Shinyapps:
+analisisfinancieromexicohdne.shinyapps.io/datos/
+
+Enlace a repositorio del proyecto:
+https://github.com/miguelesc1409/datosnoestructurados.git
